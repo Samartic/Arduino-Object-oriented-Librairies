@@ -56,7 +56,7 @@ Here are answers to some common questions related to Arduino:
    Comparing Arduino and Raspberry Pi in terms of difficulty depends on the specific use case and individual experience.
 
 
-For more detailed answers and additional questions, please refer to the [FAQ.md](FAQ.md) file.
+For more detailed answers and additional questions, please refer to the [FAQ.md](https://github.com/Samartic/ArduinoLibrairies/blob/main/Faq.md) file.
 
 ## Contributing
 
