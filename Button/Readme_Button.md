@@ -103,6 +103,4 @@ Your contributions will be reviewed, and upon approval, they will be merged into
 ## License
 
 This library is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
-```
 
-Please note that this is a template for the `Button.md` file, and you should customize it with specific details and examples related to your button library.
