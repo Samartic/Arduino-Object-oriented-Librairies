@@ -6,9 +6,9 @@ Welcome to the Arduino Object-Oriented Repository! This repository is dedicated 
 
 The repository follows a modular structure, with each basic component or module having its own subrepository. This allows for better organization and easy access to specific functionalities. The following are some of the available subrepositories:
 
-- [Button Library](https://github.com/Samartic/button-library): A library for handling button inputs on Arduino.
-- [Joystick Library](https://github.com/Samartic/joystick-library): A library for interfacing with joystick modules.
-- [LED Library](https://github.com/Samartic/led-library): A library for controlling LEDs.
+- [Button Library](https://github.com/Samartic/Arduino-Object-oriented-Librairies/tree/main/button-library): A library for handling button inputs on Arduino.
+- [Joystick Library](https://github.com/Samartic/Arduino-Object-oriented-Librairies/tree/main/joystick-library): A library for interfacing with joystick modules.
+- [MotorDriver L298n Librairy](https://github.com/Samartic/Arduino-Object-oriented-Librairies/tree/main/MotorDriverL298n): A library for controlling MotorDriver for DC motor.
 
 Feel free to explore each subrepository to find the libraries relevant to your projects.
 
