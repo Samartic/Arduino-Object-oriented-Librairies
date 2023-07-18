@@ -35,14 +35,16 @@ The `nbClicks` attribute is a variable that holds the number of button clicks th
 The `resetClickCount()` method resets the `nbClicks` variable back to 0, allowing you to start counting clicks anew.
 
 ## Example Usage
+It follow the usages principale accros all the library
 
 ```cpp
 #include <Button.h>
 
 Button myButton;
+myButton.set(D2);
 
 void setup() {
-  myButton.set(D2);
+  
   myButton.begin();
 }
 
@@ -86,6 +88,20 @@ To start using the Button library in your Arduino projects, follow these steps:
    2. [Starter kit](https://amzn.to/44T1EIL)
    3. [Push button for arduino](https://amzn.to/3pKBLMo)
    4. [Colorfull button](https://amzn.to/3rBTC8H)
+
+
+## FAQ
+Here are answers to some common questions related to Arduino's button:
+
+1. Do you need a resistor for a button?
+  Everyone will insist on utilizing the resistor because it is necessary for a button to function properly. Each Arduino pin, however, has a     little-known secret hidden inside. With just one tiny modification to our code, we can turn on the pull-up resistors that are already present on each pin.
+
+2. What is a button in Arduino?
+   The switches that make and break electrical connections in the circuits are comparable to the buttons. The button alternates between an ON and an OFF state. A single press activates the condition, while a second press deactivates it.
+
+3. How does a button Work?
+   When the button or actuator is pressed, the internal spring and contacts are depressed, and the stable contacts at the bottom of the switch are touched. The electrical circuit will be closed or opened as a result of this process.
+   
 
 ## Contributing
 
