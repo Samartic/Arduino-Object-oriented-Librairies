@@ -26,6 +26,16 @@ To get started with Arduino and the libraries in this repository, follow these s
 
 ## Learning Arduino
 
+If you are new to Arduino or want to enhance your skills, there are various resources available for learning Arduino:
+
+- The official [Arduino website](https://www.arduino.cc/) provides extensive documentation, tutorials, and a reference section to guide you through the basics and advanced topics.
+
+- Online tutorial websites, YouTube channels, and forums have a wealth of community-created content, project examples, and explanations of Arduino concepts.
+
+- Consider investing in an [Arduino Starter Kit](https://amzn.to/3Ojvgtj), which provides a hands-on learning experience with a variety of components and projects.
+
+Remember, practice and hands-on experimentation are key to mastering Arduino!
+
 If you are new to Arduino or want to enhance your skills, here are answers to some common questions related to Arduino:
 
 - **Is Arduino easy for beginners?** Arduino is generally considered to be beginner-friendly due to its simplified programming language and extensive community support.
