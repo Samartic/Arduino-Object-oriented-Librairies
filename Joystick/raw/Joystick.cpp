@@ -1,13 +1,10 @@
-#include "Joystick.h"
 #include <Arduino.h>
-#include "Potentiometer.h"
+#include "Joystick.h"
 
 Joystick::Joystick(uint8_t Apinx = -1, uint8_t Apiny = -1, uint8_t Dpinsel = -1){
-  checkLibraryAvailability("Button");
-  checkLibraryAvailability("Potentiometer");
   x.set(Apinx);
   y.set(Apiny);
-  sel;
+  sel.set(Dpinsel);
 }
 
 
