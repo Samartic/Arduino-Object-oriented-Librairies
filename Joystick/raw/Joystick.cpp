@@ -3,6 +3,8 @@
 #include "Potentiometer.h"
 
 Joystick::Joystick(uint8_t Apinx = -1, uint8_t Apiny = -1, uint8_t Dpinsel = -1){
+  checkLibraryAvailability("Button");
+  checkLibraryAvailability("Potentiometer");
   x.set(Apinx);
   y.set(Apiny);
   sel;
