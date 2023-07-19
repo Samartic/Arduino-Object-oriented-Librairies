@@ -1,1 +1,2 @@
-# Joystick Librairy
+# Joystick Library
+## !! REQUIRE POTENTIOMETER.H AND BUTTON.H !!
