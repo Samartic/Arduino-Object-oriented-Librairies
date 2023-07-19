@@ -89,6 +89,4 @@ Your contributions will be reviewed, and upon approval, they will be merged into
 ## License
 
 This library is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
-```
 
-Please make sure to customize the content of the `Potentiometer.md` file with specific details and examples related to your potentiometer library.
