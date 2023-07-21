@@ -1,3 +1,4 @@
+![image](https://github.com/Samartic/Arduino-Object-oriented-Librairies/assets/113354976/e27fa5da-4fb1-486b-a9e6-f8142def4d3a)
 # Frequently Asked Questions (FAQ)
 
 Here are answers to some common questions related to Arduino:
