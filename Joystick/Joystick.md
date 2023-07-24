@@ -1,4 +1,4 @@
-
+![image](https://github.com/Samartic/Arduino-Object-oriented-Librairies/assets/113354976/e27fa5da-4fb1-486b-a9e6-f8142def4d3a)
 # Joystick Library
 
 The Joystick library allows you to interface with a joystick module on Arduino boards. It provides functionality to read the analog input values from two potentiometers (X and Y axes) and the digital input from a button (select). Additionally, it includes useful variables for angle and forces calculations.
