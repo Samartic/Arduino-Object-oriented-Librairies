@@ -1,3 +1,4 @@
+![image](https://github.com/Samartic/Arduino-Object-oriented-Librairies/assets/113354976/e27fa5da-4fb1-486b-a9e6-f8142def4d3a)
 # Potentiometer Library
 
 The Potentiometer library provides functionality to interface with potentiometers (variable resistors) on Arduino boards. It allows you to easily read the analog input value from a potentiometer and perform further processing.
